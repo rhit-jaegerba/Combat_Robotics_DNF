@@ -1,8 +1,8 @@
 # Combat_Robotics_DNF
-# 2022-2023
-Rose-Hulman Robotics Club
+2022-2023
+
 Rose-Hulman Combat robitcs
-Team DNF
+* Team DNF
     
  Team Members:
   Beckett Jaeger,
