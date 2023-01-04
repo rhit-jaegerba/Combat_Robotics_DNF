@@ -8,6 +8,5 @@ Rose-Hulman Combat robitcs
   * Beckett Jaeger
   * Ryan Siedel
   * Allison kirk
-  * Micheal Munier
+  * Micheal Meunier
   * Timothy Johnson
-  * Rishon shaw
