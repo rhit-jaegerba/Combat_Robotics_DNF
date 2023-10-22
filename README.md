@@ -5,6 +5,7 @@ Rose-Hulman Combat robitcs - Team DNF
     
  23'-24' Team Members:
   * Beckett Jaeger
+  * Chris Lee
   * Ryan Siedel
   * Timothy Johnson
     
